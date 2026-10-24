@@ -1,0 +1,231 @@
+{
+  "precautions": {
+    "Drug Reaction": [
+      "Stop the medication immediately.",
+      "Assess for anaphylaxis (airway, breathing).",
+      "Administer antihistamines or epinephrine if severe.",
+      "Refer to Emergency Department."
+    ],
+    "Malaria": [
+      "Check vitals and temperature.",
+      "Administer prescribed antimalarials.",
+      "Encourage oral fluids.",
+      "Refer to Infectious Diseases if severe."
+    ],
+    "Allergy": [
+      "Administer antihistamine (e.g., Cetirizine).",
+      "Apply calamine lotion to affected areas.",
+      "Monitor for airway swelling.",
+      "Discharge to home care if mild."
+    ],
+    "Hypothyroidism": [
+      "Check thyroid function tests.",
+      "Administer Levothyroxine as prescribed.",
+      "Educate on daily medication adherence.",
+      "Refer to Endocrine Clinic."
+    ],
+    "Psoriasis": [
+      "Apply prescribed topical corticosteroids.",
+      "Advise on gentle skin care.",
+      "Refer to Dermatology for severe flare-ups."
+    ],
+    "GERD": [
+      "Elevate the head of the bed.",
+      "Administer prescribed antacids or PPIs.",
+      "Advise against lying down immediately after meals.",
+      "Refer to Gastroenterology if refractory."
+    ],
+    "Chronic cholestasis": [
+      "Administer prescribed anti-itch medications.",
+      "Monitor liver function tests.",
+      "Refer to Hepatology for management."
+    ],
+    "hepatitis A": [
+      "Advise strict hand hygiene.",
+      "Administer supportive care (fluids, rest).",
+      "Monitor liver enzymes.",
+      "Refer to Infectious Diseases."
+    ],
+    "Osteoarthristis": [
+      "Administer prescribed analgesics (e.g., acetaminophen).",
+      "Apply hot/cold compresses.",
+      "Refer to Orthopedics or Physiotherapy."
+    ],
+    "(vertigo) Paroymsal  Positional Vertigo": [
+      "Assist patient to a safe seated or lying position.",
+      "Perform Epley maneuver if trained.",
+      "Administer prescribed antiemetics if nauseous.",
+      "Refer to ENT."
+    ],
+    "Hypoglycemia": [
+      "Check blood glucose immediately.",
+      "Administer 15g fast-acting carbohydrates (juice/glucose).",
+      "Recheck glucose in 15 minutes.",
+      "Call Emergency if patient is unconscious."
+    ],
+    "Acne": [
+      "Advise on gentle skin cleansing.",
+      "Apply prescribed topical retinoids.",
+      "Refer to Dermatology if severe."
+    ],
+    "Diabetes": [
+      "Check blood glucose levels.",
+      "Administer prescribed insulin/oral meds.",
+      "Assess for diabetic foot ulcers.",
+      "Refer to Endocrinology."
+    ],
+    "Impetigo": [
+      "Clean affected area with warm water.",
+      "Apply prescribed topical or oral antibiotics.",
+      "Advise on covering sores to prevent spread."
+    ],
+    "Hypertension": [
+      "Recheck blood pressure after rest.",
+      "Administer prescribed antihypertensives.",
+      "Refer to Emergency if BP is critically high (e.g., >180/120).",
+      "Refer to Cardiology."
+    ],
+    "Peptic ulcer diseae": [
+      "Administer prescribed PPIs or H2 blockers.",
+      "Advise against NSAIDs and spicy foods.",
+      "Monitor for signs of bleeding (melena).",
+      "Refer to Gastroenterology."
+    ],
+    "Dimorphic hemmorhoids(piles)": [
+      "Administer prescribed stool softeners or topical analgesics.",
+      "Advise on warm sitz baths.",
+      "Refer to General Surgery for severe cases."
+    ],
+    "Common Cold": [
+      "Advise rest and increased fluid intake.",
+      "Administer over-the-counter antipyretics.",
+      "Discharge to home care."
+    ],
+    "Chicken pox": [
+      "Isolate patient to prevent spread.",
+      "Administer prescribed antihistamines for itching.",
+      "Monitor for secondary bacterial infections.",
+      "Refer to Pediatrics/Infectious Diseases."
+    ],
+    "Cervical spondylosis": [
+      "Administer prescribed muscle relaxants or NSAIDs.",
+      "Apply hot/cold therapy to the neck.",
+      "Refer to Orthopedics or Physiotherapy."
+    ],
+    "Hyperthyroidism": [
+      "Check heart rate and blood pressure.",
+      "Administer prescribed beta-blockers.",
+      "Refer to Endocrinology for definitive treatment."
+    ],
+    "Urinary tract infection": [
+      "Encourage increased fluid intake.",
+      "Administer prescribed antibiotics.",
+      "Monitor for flank pain or fever (pyelonephritis).",
+      "Refer to Urology if recurrent."
+    ],
+    "Varicose veins": [
+      "Advise on leg elevation and compression stockings.",
+      "Refer to Vascular Surgery if severe."
+    ],
+    "AIDS": [
+      "Initiate standard precautions (PPE).",
+      "Check CD4 count and viral load.",
+      "Administer prescribed ART (Antiretroviral Therapy).",
+      "Refer to Infectious Diseases Clinic."
+    ],
+    "Paralysis (brain hemorrhage)": [
+      "IMMEDIATE EMERGENCY: Assess ABCs.",
+      "Maintain airway, breathing, and circulation.",
+      "Stat CT scan required.",
+      "Refer urgently to Neurology/Neurosurgery."
+    ],
+    "Typhoid": [
+      "Check vitals and monitor for dehydration.",
+      "Administer prescribed antibiotics and IV fluids.",
+      "Refer to Infectious Diseases."
+    ],
+    "Hepatitis B": [
+      "Initiate standard precautions (gloves).",
+      "Monitor liver function tests.",
+      "Administer prescribed antivirals.",
+      "Refer to Hepatology."
+    ],
+    "Fungal infection": [
+      "Apply prescribed topical antifungal cream.",
+      "Advise on keeping the area dry.",
+      "Refer to Dermatology if extensive."
+    ],
+    "Hepatitis C": [
+      "Initiate standard precautions (gloves).",
+      "Monitor liver function tests.",
+      "Administer prescribed antivirals.",
+      "Refer to Hepatology."
+    ],
+    "Migraine": [
+      "Move patient to a dark, quiet room.",
+      "Administer prescribed NSAIDs or triptans.",
+      "Refer to Neurology if chronic."
+    ],
+    "Bronchial Asthma": [
+      "Assess airway and oxygen saturation.",
+      "Administer prescribed bronchodilators (inhaler/nebulizer).",
+      "Administer corticosteroids if severe.",
+      "Call Emergency if unresponsive to treatment."
+    ],
+    "Alcoholic hepatitis": [
+      "Assess for withdrawal symptoms.",
+      "Administer IV fluids and thiamine.",
+      "Refer to Hepatology and Substance Abuse counseling."
+    ],
+    "Jaundice": [
+      "Monitor bilirubin levels.",
+      "Administer prescribed supportive care.",
+      "Refer to Gastroenterology/Hepatology."
+    ],
+    "Hepatitis E": [
+      "Initiate standard precautions (gloves).",
+      "Administer supportive care (fluids, rest).",
+      "Refer to Hepatology."
+    ],
+    "Dengue": [
+      "Monitor platelet count and hematocrit.",
+      "Administer prescribed IV fluids if signs of plasma leakage.",
+      "Monitor for warning signs (bleeding, severe abdominal pain).",
+      "Refer to Infectious Diseases."
+    ],
+    "Hepatitis D": [
+      "Monitor liver function tests.",
+      "Administer prescribed antivirals.",
+      "Refer to Hepatology."
+    ],
+    "Heart attack": [
+      "IMMEDIATE EMERGENCY: Assess ABCs and call for help.",
+      "Administer oxygen if hypoxic.",
+      "Administer prescribed aspirin and nitroglycerin.",
+      "Stat ECG required. Refer urgently to Cardiology."
+    ],
+    "Pneumonia": [
+      "Assess oxygen saturation (SpO2).",
+      "Administer prescribed antibiotics and oxygen.",
+      "Monitor respiratory rate and breath sounds.",
+      "Refer to Respiratory Medicine."
+    ],
+    "Arthritis": [
+      "Administer prescribed NSAIDs or analgesics.",
+      "Apply hot/cold therapy to joints.",
+      "Refer to Rheumatology."
+    ],
+    "Gastroenteritis": [
+      "Assess hydration status (skin turgor).",
+      "Administer oral rehydration salts (ORS) or IV fluids.",
+      "Administer prescribed antiemetics.",
+      "Discharge home if mild, admit if severe dehydration."
+    ],
+    "Tuberculosis": [
+      "Place patient in a negative pressure room or isolate.",
+      "Initiate standard airborne precautions (N95).",
+      "Administer prescribed RIPE therapy.",
+      "Refer to Respiratory Medicine/Public Health."
+    ]
+  }
+}

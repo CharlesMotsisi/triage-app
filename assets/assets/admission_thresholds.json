@@ -1,0 +1,10 @@
+{
+  "thresholds": {
+    "CRITICAL_SEVERITY": 15,
+    "HIGH_SEVERITY": 10,
+    "MEDIUM_SEVERITY": 15,
+    "VERY_HIGH_SEVERITY": 20,
+    "MEDIUM_ADMIT_THRESHOLD": 25,
+    "CRITICAL_SYMPTOM_WEIGHT": 7
+  }
+}
